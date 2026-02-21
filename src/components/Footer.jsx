@@ -27,7 +27,7 @@ export default function Footer() {
               />
               <span className="text-xl sm:text-2xl font-bold">
                 <span className="text-white">Asescont</span>
-                <span className="text-blue-400">MyS</span>
+                <span className="text-blue-400">M&S</span>
               </span>
             </div>
 
